@@ -1,0 +1,124 @@
+{
+    "request": [
+        {
+            "name": "Asian Flank Steak",
+            "description": "This perfectly thin cut just melts in your mouth.",
+            "protein": 14,
+            "id": 1,
+            "calories": 300,
+            "price": 8.99,
+            "carbs": 0,
+            "imageURL": ""
+        },
+        {
+            "name": "Blackened Shrimp",
+            "description": "Seasoned shrimp from the depths of the Atlantic Ocean.",
+            "protein": 4,
+            "id": 2,
+            "calories": 450,
+            "price": 6.99,
+            "carbs": 3,
+            "imageURL": ""
+        },
+        {
+            "name": "Buffalo Chicken Bites",
+            "description": "The tasty bites of chicken have just the right amount of kick to them.",
+            "protein": 5,
+            "id": 3,
+            "calories": 800,
+            "price": 7.49,
+            "carbs": 22,
+            "imageURL": "https://gitlab.com/sophia.kreuzer.plank/sample-data/-/raw/main/chicken-bites.jpg?inline=false"
+        },
+        {
+            "name": "Chicken Avocado Spring Roll",
+            "description": "These won't last 10 seconds once they hit the table.",
+            "protein": 7,
+            "id": 4,
+            "calories": 350,
+            "price": 5.99,
+            "carbs": 15,
+            "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-avocado-spring-roll.jpg"
+        },
+        {
+            "name": "Garlic Parmesan Fries",
+            "description": "Crispy fries tossed in garlic butter and parmesan cheese.",
+            "protein": 3,
+            "id": 5,
+            "calories": 520,
+            "price": 4.99,
+            "carbs": 48,
+            "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/garlic-parmesan-fries.jpg"
+        },
+        {
+            "name": "Honey Glazed Meatballs",
+            "description": "Juicy meatballs coated with a sweet honey glaze.",
+            "protein": 10,
+            "id": 6,
+            "calories": 600,
+            "price": 7.99,
+            "carbs": 18,
+            "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/honey-glazed-meatballs.jpg"
+        },
+        {
+            "name": "Spicy Tuna Tartare",
+            "description": "Fresh tuna tossed with spicy mayo and served with crispy wontons.",
+            "protein": 12,
+            "id": 7,
+            "calories": 280,
+            "price": 9.99,
+            "carbs": 6,
+            "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/spicy-tuna-tartare.jpg"
+        },
+        {
+            "name": "Mozzarella Sticks",
+            "description": "Crispy on the outside, gooey cheese on the inside.",
+            "protein": 8,
+            "id": 8,
+            "calories": 640,
+            "price": 6.49,
+            "carbs": 32,
+            "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/mozzarella-sticks.jpg"
+        },
+        {
+            "name": "Stuffed Jalape\u00f1os",
+            "description": "Jalape\u00f1os stuffed with cream cheese and bacon bits.",
+            "protein": 6,
+            "id": 9,
+            "calories": 400,
+            "price": 5.79,
+            "carbs": 9,
+            "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/stuffed-jalapenos.jpg"
+        },
+        {
+            "name": "Crab Rangoon",
+            "description": "Crispy wontons filled with crab and cream cheese goodness.",
+            "protein": 5,
+            "id": 10,
+            "calories": 420,
+            "price": 6.29,
+            "carbs": 21,
+            "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/crab-rangoon.jpg"
+        },
+        {
+            "name": "Loaded Nachos",
+            "description": "Tortilla chips loaded with melted cheese, beans, and jalape\u00f1os.",
+            "protein": 9,
+            "id": 11,
+            "calories": 950,
+            "price": 8.49,
+            "carbs": 55,
+            "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/loaded-nachos.jpg"
+        },
+        {
+            "name": "Teriyaki Chicken Skewers",
+            "description": "Tender chicken glazed with a rich teriyaki sauce.",
+            "protein": 11,
+            "id": 12,
+            "calories": 390,
+            "price": 7.29,
+            "carbs": 10,
+            "imageURL": "https://gitlab.com/sophia.kreuzer.plank/sample-data/-/raw/main/chicken.jpg?ref_type=heads"
+        }
+    ]
+}
